@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestEngine", "QuestEngine\QuestEngine.csproj", "{D4EF11C2-C4D0-4FD0-BDFD-0F4ABC479DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestEngine.TextSample", "QuestEngine.TextSample\QuestEngine.TextSample.csproj", "{C30557EA-2A24-428D-8A99-006E1823C2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4EF11C2-C4D0-4FD0-BDFD-0F4ABC479DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EF11C2-C4D0-4FD0-BDFD-0F4ABC479DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EF11C2-C4D0-4FD0-BDFD-0F4ABC479DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EF11C2-C4D0-4FD0-BDFD-0F4ABC479DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30557EA-2A24-428D-8A99-006E1823C2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30557EA-2A24-428D-8A99-006E1823C2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30557EA-2A24-428D-8A99-006E1823C2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30557EA-2A24-428D-8A99-006E1823C2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
